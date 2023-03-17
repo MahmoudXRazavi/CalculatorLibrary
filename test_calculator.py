@@ -15,4 +15,4 @@ class TestCalculator:
 
 
     def test_division(self):
-        assert 100 == calculator.dvivide(1000, 10)
+        assert 100 == calculator.divide(1000, 10)
